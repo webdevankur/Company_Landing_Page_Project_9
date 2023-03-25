@@ -17,9 +17,11 @@ Company_Landing_Page_Project_9
 ## What have i learned in this Project
 •	CSS Flexbox
 
-•	Background image and its properties
+•	Importing font
 
-•	picking color from an image to implement on my website
+•	Media Query for Respsiveness across different devices
+
+•	CSS Positions
 
 •	Button customization
 
