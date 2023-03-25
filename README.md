@@ -11,7 +11,7 @@ Company_Landing_Page_Project_9
 
 ## Project Thumbnail👇
 
-![thumbnail](https://github.com/webdevankur/InteriorDesign_Landing_Page_Project_10/blob/main/10.png)
+![thumbnail](https://github.com/webdevankur/Company_Landing_Page_Project_9/blob/main/9.png)
 
 
 ## What have i learned in this Project
